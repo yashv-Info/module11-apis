@@ -1,5 +1,8 @@
 ### Exercise 1 ###
-
+install.packages("jsonlite")
+install.packages("httr")
+library("httr")
+library("jsonlite")
 # Load the httr and jsonlite libraries for accessing data
 
 
